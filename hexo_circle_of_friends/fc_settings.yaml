@@ -41,7 +41,7 @@ SETTINGS_FRIENDS_LINKS: {
         # 比如 https://elizen.me/hello.xml ，填写：
         # ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"]
         ["Icemoon", "https://syitt.gitee.io", "https://tx2.a.yximgs.com/udata/music/music_4833aff480b5451cb4ffc0e8fad5066f0.jpg"],
-        ["涛声依旧", "https://weekdaycare.cn", "https://pic1.imgdb.cn/item/630c05de16f2c2beb1d86de2.jpg"],
+        ["星日语", "https://weekdaycare.cn", "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600"],
         ["闪烁之狐", "https://blinkfox.github.io", "https://pic.rmb.bdstatic.com/bjh/415de4d5d462d6bd318c09824113e54e.jpeg"],
         ["夜法之书的Blog", "https://blog.17lai.site", "https://pic.rmb.bdstatic.com/bjh/858d9bb5d0293e40d7a416ca56df27c8.png"],
         ["xaoxuu", "https://xaoxuu.com", "https://pic.rmb.bdstatic.com/bjh/8c49a192d8d5f1dddac3912d7b812a52.jpeg"],
